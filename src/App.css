@@ -1,4 +1,4 @@
-
+/* 
   .App {
     text-align: center;
     display: flex;
@@ -39,4 +39,112 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+/* .App {
+  text-align: center;
+
+ text-align: center;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+} */
+/* 
+.App-logo {
+@@ -22,7 +28,7 @@
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
 }
+} 
+
+.App-link {
+  color: #61dafb;
+@@ -36,3 +42,61 @@
+    transform: rotate(360deg);
+  }
+} */
+
+
+/* 
+
+.income-form,
+.expense-form,
+.target-form {
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: center;
+  width: 30%;
+  margin: 10px;
+}
+
+.balance-container {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh; Make sure the container takes at least the full viewport height */
+  /* padding: 20px;
+  text-align: center;
+  position: absolute;
+  top: 400px;
+  margin-top: 40px;
+
+} */
+
+/* Styling for labels */
+/* label {
+  display: block;
+  margin-bottom: 5px;
+} */
+
+/* Styling for input fields */
+/* input {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+} */
+
+/* Styling for buttons */
+/* button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+
+.test{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20%;
+
+
+} */
+.App {
+  text-align: center;
+  margin: 0;
+}
+
+
+div.content{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content:space-between ;
+  text-align: center;
+}
+
+div.form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* 
+@keyframes App-logo-spin {
+  from { */
